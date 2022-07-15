@@ -175,10 +175,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6293784144041186973, guid: f4b541d5295c2584fa79b9dcfd8744e8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7634e9aceb6c2d043a8c32c814bae3eb, type: 2}
     - target: {fileID: 919132149155446097, guid: f4b541d5295c2584fa79b9dcfd8744e8, type: 3}
       propertyPath: m_Name
       value: Pistola-Bala
       objectReference: {fileID: 0}
+    - target: {fileID: 6950392214183214663, guid: f4b541d5295c2584fa79b9dcfd8744e8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -1360991219368177298, guid: f4b541d5295c2584fa79b9dcfd8744e8, type: 3}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: f4b541d5295c2584fa79b9dcfd8744e8, type: 3}
