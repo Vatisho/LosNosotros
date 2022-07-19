@@ -24,12 +24,32 @@ ModelImporter:
   - first:
       95: 9500000
     second: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_mat
+    second: {fileID: 2100000, guid: 63552d8d5831aa54e98157f5be566115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLUE_LIGHT_mat
+    second: {fileID: 2100000, guid: 81062b3d37d2b5c49b581e83c95734a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DARK_GREY_mat
+    second: {fileID: 2100000, guid: 7df2271301e0b7a40abd565d1c1c067f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_mat
+    second: {fileID: 2100000, guid: e669c6956432929418a4ca0815e628fb, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -110,7 +130,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.012
+    globalScale: 1.2
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

@@ -14,8 +14,6 @@ Material:
   m_ValidKeywords:
   - _ALPHAPREMULTIPLY_ON
   - _METALLICSPECGLOSSMAP
-  - _NORMALMAP
-  - _PARALLAXMAP
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -56,7 +54,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: e9e7e000a65cbec428293a6e16d8028b, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 50, y: 50}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
