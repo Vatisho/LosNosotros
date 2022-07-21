@@ -3,7 +3,22 @@ guid: 22979a140857f8f49ad4426515414f92
 ModelImporter:
   serializedVersion: 22103
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 7c3f937eba7822f42aa2df49c1df3a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base
+    second: {fileID: 2100000, guid: ae486c8b768e4794d9f5f299224b0610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparency
+    second: {fileID: 2100000, guid: 4571848b6e8ebe64f986b85105664134, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
